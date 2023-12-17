@@ -1,0 +1,8 @@
+.background3{
+    background: #FFF0CB;
+}
+.parentSection{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

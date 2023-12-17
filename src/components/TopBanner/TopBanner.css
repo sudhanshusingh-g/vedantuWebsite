@@ -1,0 +1,69 @@
+.background{
+    border-radius: 0.4rem;
+    background: #FF693D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    padding: 50px 100px 0px 100px;
+    gap: 1.5rem;
+}
+.accent{
+    color: #FFDA49;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+.courseTabs{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0.5rem;
+}
+.courseTabs span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    color: #FF693D;
+    padding: 0.1rem 0.4rem;
+    border-radius: 4px;
+    font-weight: 400;
+}
+.actionBtn{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding-bottom: 1.5rem;
+}
+.connectBtn{
+    display: flex;
+    align-items: center;
+    background: #01202B;
+    border-radius: 8px;
+    gap: 0.2rem;
+    padding: 0 1rem;
+    cursor: pointer;
+}
+.cta{
+    display: flex;
+    align-items: center;
+    background: #fff;
+    color: #FF693D;
+    border-radius: 8px;
+    gap: 0.4rem;
+    padding: 0 1.8rem;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.thumbnail img{
+    background:  #000;
+    border-radius: 8px;
+}
+.thumbnail p{
+    margin: 0;
+    font-size: 14px;
+}

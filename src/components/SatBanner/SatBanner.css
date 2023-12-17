@@ -1,0 +1,28 @@
+.satSection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    padding: 2rem 0;
+}
+
+.perks{
+    display: flex;
+    align-items: center;
+    width: 40rem;
+}
+.win,.badge{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.btnArea{
+    margin: 2rem 0;
+}
+.btnArea p{
+    font-size: 12px;
+    font-weight: 400;
+    margin-top : 1.5rem;
+    margin-left: 0;
+}
